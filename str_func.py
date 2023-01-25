@@ -8,5 +8,3 @@ def capital_string (str_i):
  str_result = str(str_i)
  return str_result.capitalize()
 
-#print (upper_string ("снег"))
-#print (capital_string ("снег"))
